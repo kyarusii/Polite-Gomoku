@@ -1,0 +1,18 @@
+{
+    "name": "PG.Editor",
+    "rootNamespace": "PG.Editor",
+    "references": [
+        "GUID:a808861258735fd4aa76a7422b1247db"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
